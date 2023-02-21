@@ -103,12 +103,7 @@ ul {
 .hero .container {
     padding: 100px 0;
     display: flex;
-    flex-wrap: wrap;
     gap: 18px;    
-}
-
-.hero-text {
-    max-width: 400px;
 }
 
 .hero {
