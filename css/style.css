@@ -98,6 +98,7 @@ ul {
 
 .header a:hover {
     color: #becff3;
+    cursor: pointer;
 }
 
 .hero .container {
@@ -144,6 +145,7 @@ h3 {
     background-color: #F9FAF8;
     color: #3882F6;
     border: 2px solid #F9FAF8;
+    cursor: pointer;
 }
 
 .hero img {
@@ -233,7 +235,7 @@ figcaption {
 .cta-button:hover {
     background-color: #F9FAF8;
     color: #3882F6;
-
+    cursor: pointer;
 }
 
 footer .container {
